@@ -1,13 +1,6 @@
 ### Reference
 [tistory_blog](https://smcjaemin0820.tistory.com/)
 
-#### 1. Install Python
-Download Python URL (www.python.org/downloads)
-# Start Flask
-
-### Reference
-[tistory_blog](https://smcjaemin0820.tistory.com/)
-
 ## Install Python
 
 #### Download Python URL (www.python.org/downloads)
@@ -17,12 +10,10 @@ Download Python URL (www.python.org/downloads)
 ## How to install Flask on VSC
 
 Install Flask using this command
-
-
+First, Create a new terminal this key
+`Ctrl + Shift + ` `
 ```
-amazon-linux-extras install java-openjdk11 -y
-wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.60/bin/apache-tomcat-9.0.60.tar.gz
-tar -zvxf apache-tomcat-9.0.60.tar.gz
+pip install flask
 ```
 
 ## How to deploy in war file to Apache Tomcat  
