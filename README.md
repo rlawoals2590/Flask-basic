@@ -9,7 +9,8 @@
 
 ## How to install Flask on VSC
 
-Install Flask using this command
+#Install Flask using this command
+
 First, Create a new terminal this key
 'Ctrl + Shift + ` '
 ```
