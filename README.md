@@ -11,7 +11,7 @@
 
 Install Flask using this command
 First, Create a new terminal this key
-`Ctrl + Shift + ` `
+'Ctrl + Shift + ` '
 ```
 pip install flask
 ```
